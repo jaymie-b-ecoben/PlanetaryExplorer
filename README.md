@@ -2,7 +2,7 @@
 
 An interactive 3D Solar System built with **Three.js** that makes exploring space engaging and educational. Travel between planets, discover real NASA data, compare worlds side by side, and see what you'd weigh across the Solar System—all from a **single HTML file** with no build tools or texture assets.
 
-**Live Demo:** {link here}  
+**Live Demo:** https://jaymie-b-ecoben.github.io/PlanetaryExplorer/
 **Portfolio:** https://jaymie-ecoben.site
 
 ---
